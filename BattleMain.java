@@ -1,3 +1,9 @@
+// Author: Silviu Velica
+// Date: September 2016
+// Description:
+// 	This program simulates a battle between two armies. For a detailed description
+// 	of how it works, see the README file in the master branch.
+
 package BattleSimulator;
 
 public class BattleMain
