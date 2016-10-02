@@ -13,3 +13,7 @@ The second step is to choose a strategy for each army. Again, you can let the pr
 
 Finally, the last step lets you choose what gets displayed. You can choose to display both the dead units and the number of soldiers left in each unit after each clash of the armies, or you can choose to display only the dead units. Either way, the program displays a notification every time a unit chooses a new target and at the end, declaring a winner.
 
+
+Details:
+
+- Classes Archers, CavalryArchers, HeavyCavalry, Infantry, LightCavalry, and Spearmen represent the 6 types of units available. Each of them contains only what is specific to that type of unit, namely its attack and defence preferences (from the other types of units), its name, and getters for each of these variables.
