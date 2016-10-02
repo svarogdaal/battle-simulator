@@ -3,10 +3,7 @@ This program uses java's object-oriented capabilities to simulate a battle betwe
 
 General description:
 
-The first step is to choose how you want each army to be constructed. You can specify only
-the total number of units you want and let the program choose randomly what types of units
-to use , or you can customize your army, specifying its name and the number for each type
-of unit (a unit consists of 50 soldiers).
+The first step is to choose how you want each army to be constructed. You can specify only the total number of units you want and let the program choose randomly what types of units to use , or you can customize your army, specifying its name and the number for each type of unit (a unit consists of 50 soldiers).
 
 The second step is to choose a strategy for each army. Again, you can let the program choose
 a random strategy, or choose a specific strategy. There are four possible strategies:
